@@ -1,5 +1,3 @@
 Esimene rida mingit teksti
 Lorem ipsum ja nii edasi
 yks kaks kolm neli viis
-
-ma ei tea mida tegema peab
