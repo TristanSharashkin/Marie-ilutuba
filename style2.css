@@ -1,5 +1,5 @@
 body {
-    
+    background-color: powderblue;
 }
 
 h1 {
@@ -13,5 +13,4 @@ h1 {
 p {
     font-size: 25px;
     text-align: center;
-    background-color: powderblue;
 }
